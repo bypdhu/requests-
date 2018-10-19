@@ -11,6 +11,11 @@
 来看一下这一个文件的组成。
 历史记录只有一个词：Birth!哈哈，见证大神作品诞生了。
 
+### 用时
+- 30分钟阅读，30分钟编写
+- total： 30分钟阅读，30分钟编写
+
+
 ## 2. 概述
 
 - 导入模块只有urllib和urllib2
@@ -100,4 +105,4 @@ Sends a GET request. Returns :class:`Response` object
 需要手动注册，AUTOAUTHS里面才有内容，用于auth自动发现
 
 
-## 全看懂了，哈哈哈
+## 4. 全看懂了，哈哈哈
