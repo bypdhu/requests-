@@ -11,8 +11,8 @@
 和上一个版本是同一天提交的，改动不大。就core.py文件有修改
 
 ### 用时
-- 30分钟阅读，30分钟编写
-- total： 30分钟阅读，30分钟编写
+- 5分钟阅读，5分钟编写
+- total： 5分钟阅读，5分钟编写
 
 
 ## 2. 概述
@@ -21,7 +21,7 @@
 ## 3. 详解
 
 #### eventlet.monkey_patch 
-开头添加的，具体用途这里不讨论
+开头添加的，动态替换某个命名指向的对象，具体用途这里不讨论
 ```python
 try:
 	import eventlet
@@ -45,4 +45,4 @@ if not 'eventlet' in locals():
 - get/head/delete/put/post添加cookie参数
 
 ## 4. 收获
-略
+monkey_patch后续了解一下。
