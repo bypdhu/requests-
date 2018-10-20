@@ -105,4 +105,5 @@ Sends a GET request. Returns :class:`Response` object
 需要手动注册，AUTOAUTHS里面才有内容，用于auth自动发现
 
 
-## 4. 全看懂了，哈哈哈
+## 4. 收获
+全看懂了，哈哈哈
