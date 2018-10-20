@@ -5,6 +5,7 @@
 # 环境
 
 ## 编辑器：PyCharm
+## 版本：python2
 ## 比对工具: beyondCompare
 ## 方式：从history入手，根据tag和历史清单进行代码分析和测试。打开两份相邻版本进行比较。
 
